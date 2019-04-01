@@ -1,0 +1,7 @@
+# %ping% to show ping
+# %player% to show player
+
+your_ping: "You got %ping%"
+their_ping: "%player% got %ping%"
+player_offline: "%player% is offline"
+reload_pl: "CheckPing as been reload"
